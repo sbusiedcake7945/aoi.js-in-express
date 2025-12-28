@@ -40,4 +40,5 @@ const result = await Interpreter(
 ```
 # examples
 
-[![examples](./button2.svg)](./usage.md)
+
+[![examples](./button2.svg)](./usage)
