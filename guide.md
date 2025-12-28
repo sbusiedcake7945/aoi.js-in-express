@@ -1,3 +1,9 @@
+<style>
+  body {
+    bacground-color: black;
+    color: white;
+  }
+</style>
 # first step
 
 add
@@ -42,3 +48,4 @@ const result = await Interpreter(
 
 
 [![examples](./button2.svg)](./usage)
+
