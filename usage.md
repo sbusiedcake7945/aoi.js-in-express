@@ -1,9 +1,3 @@
-<style>
-  body {
-    bacground-color: black;
-    color: white;
-  }
-</style>
 # usage
 
 how to use it
@@ -23,3 +17,4 @@ you can use it like this but you need aoi.js and express.js
 
 
 [![aoi.js docs](./aoi.js.svg)](https://aoi.js.org/)
+
